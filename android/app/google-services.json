@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096053921487",
+    "project_id": "percobaan1-1ad64",
+    "storage_bucket": "percobaan1-1ad64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096053921487:android:27b3b5f223eb8cff5549ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC3-44FJA0F_2ipr0X2zdL54JRzMPv4v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
